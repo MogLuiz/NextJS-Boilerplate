@@ -1,6 +1,6 @@
 // import App from "next/app";
 import type { AppProps } from "next/app"
-import { Head } from "next/document"
+import Head from "next/head"
 
 import GlobalStyles from "styles/global"
 
