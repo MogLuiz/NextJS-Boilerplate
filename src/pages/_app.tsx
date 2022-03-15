@@ -1,10 +1,15 @@
 // import App from "next/app";
+// Next Packages
 import type { AppProps } from "next/app"
 import Head from "next/head"
 
+// Global Styles
 import GlobalStyles from "styles/global"
 
 function App({ Component, pageProps }: AppProps) {
+  // -------------------------------------------------
+  // Render
+  // -------------------------------------------------
   return (
     <>
       <Head>

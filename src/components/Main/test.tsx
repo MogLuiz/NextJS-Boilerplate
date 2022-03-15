@@ -1,5 +1,7 @@
+// Packages
 import { render, screen } from "@testing-library/react"
 
+// Components
 import Main from "."
 
 describe("<Main />", () => {
